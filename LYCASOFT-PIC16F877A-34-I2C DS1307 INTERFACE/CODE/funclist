@@ -1,0 +1,15 @@
+___awdiv: CODE, 1531 0 116
+_Lcd_Intialization: CODE, 1233 0 19
+_Receive: CODE, 1272 0 21
+_Lcd_Command: CODE, 1335 0 47
+_Receive_I2C_Data: CODE, 1221 0 12
+___awmod: CODE, 1429 0 102
+_main: CODE, 1830 0 218
+_Lcd_Data: CODE, 1382 0 47
+_Start: CODE, 1188 0 11
+_Slave_I2C_Initialization: CODE, 1252 0 20
+_lcd_bcd: CODE, 1647 0 183
+_Restart: CODE, 1199 0 11
+_Stop: CODE, 1210 0 11
+___wmul: CODE, 1293 0 42
+Total: 860
